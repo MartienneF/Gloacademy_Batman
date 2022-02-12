@@ -1,1 +1,1 @@
-# Gloacademy_Batman
+# Gloacademy_Batman - Интенсив по верстке "Промосайт фильма «Бэтмен» 2022"
