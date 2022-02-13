@@ -1,7 +1,7 @@
 /* @import url("https://fonts.googleapis.com/css2?family=PT+Sans+Caption:wght@400;700&family=Roboto:wght@400;700&display=swap"); */
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Roboto Bold';
   src: url('../fonts/Roboto-Bold.eot');
   src: local('Roboto Bold'), local('Roboto-Bold'),
     url('../fonts/Roboto-Bold.eot?#iefix') format('embedded-opentype'),
@@ -12,7 +12,7 @@
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Roboto Regular';
   src: url('../fonts/Roboto-Regular.eot');
   src: local('Roboto'), local('Roboto-Regular'),
     url('../fonts/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
@@ -51,7 +51,7 @@ body {
   color: white;
   display: flex;
   flex-direction: column;
-  font: normal 1.4rem Roboto, sans-serif;
+  font: normal 1.4rem 'Roboto Regular', sans-serif;
   line-height: 1.6rem;
   min-height: 100vh;
 }
@@ -257,7 +257,6 @@ main .container {
   padding: 2.2rem 7.2rem;
   border-radius: .8rem;
   margin-bottom: 8.8rem;
-
 }
 
 .main-slider_wrap {
